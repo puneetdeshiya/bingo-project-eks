@@ -1,7 +1,7 @@
 ## Hi there! this my new project
 Welcome to the Bingo App Deployment project! This project demonstrates how to deploy a Bingo application using modern DevOps tools and practices, following a DevSecOps approach.
 
-## 🛠️ **Tools & Services Used**
+## 🛠️ **Tools & Services Used***
 
 | **Category**       | **Tools**                                                                                                                                                                                                 |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -144,3 +144,4 @@ flowchart TB
   pd --> dw
   
 ```
+
